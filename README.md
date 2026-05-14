@@ -34,8 +34,8 @@ CodePulse/
 └── .gitignore          # Version control exclusion rules
 ```
 
- Installation & Setup
- 1. Prerequisites
+# Installation & Setup
+ 1. **Prerequisites
  * Node.js installed
  * MongoDB instance (Local or Atlas)
 
