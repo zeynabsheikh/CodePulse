@@ -35,10 +35,9 @@ CodePulse/
 ```
 
  Installation & Setup
-1. Prerequisites
-Node.js installed
-
-MongoDB instance (Local or Atlas)
+ 1. Prerequisites
+ * Node.js installed
+ * MongoDB instance (Local or Atlas)
 
 2. Backend Setup
 Bash
@@ -53,9 +52,8 @@ cd ../frontend
 npm install
 npm run dev
 ```
-[cite: 1]
 
- Analysis Engine Logic
+# Analysis Engine Logic
 The platform utilizes a rule-based analysis algorithm that parses the code string to identify:
 
 Complexity: Detects excessively long functions or deeply nested loops.
@@ -64,7 +62,6 @@ Documentation: Checks for the presence of comments and documentation strings.
 
 Naming Conventions: Evaluates variable and function naming patterns for readability.
 
-[cite: 1]
 
 Contribution
-Developed by Zainab Sheikh as part of the Final Year Project.[cite: 1]
+Developed by Zainab Noor as part of the Final Semester Project.
