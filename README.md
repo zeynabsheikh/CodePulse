@@ -19,8 +19,6 @@ CodePulse is a professional-grade MERN stack application designed to facilitate 
 | **Real-Time** | Socket.IO |
 | **API Client** | Axios |
 
-[cite: 1]
-
 ##  Project Structure
 
 ```text
@@ -34,9 +32,9 @@ CodePulse/
 │   ├── src/services/   # API & Socket Configurations
 │   └── src/components/ # Reusable UI Components
 └── .gitignore          # Version control exclusion rules
-[cite: 1]
+```
 
-⚙️ Installation & Setup
+ Installation & Setup
 1. Prerequisites
 Node.js installed
 
