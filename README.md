@@ -34,12 +34,12 @@ CodePulse/
 └── .gitignore          # Version control exclusion rules
 ```
 
-# Installation & Setup
- 1. **Prerequisites
+## Installation & Setup
+ 1. **Prerequisites**
  * Node.js installed
  * MongoDB instance (Local or Atlas)
 
-2. Backend Setup
+ 2. **Backend Setup**
 ```Bash
 cd backend
 npm install
@@ -47,7 +47,7 @@ npm install
 npm start
 ```
 
-3. Frontend Setup
+ 3. **Frontend Setup**
 ```bash
 cd ../frontend
 npm install
