@@ -40,11 +40,12 @@ CodePulse/
  * MongoDB instance (Local or Atlas)
 
 2. Backend Setup
-Bash
+```Bash
 cd backend
 npm install
 # Configure your .env with MONGO_URI and PORT
 npm start
+```
 
 3. Frontend Setup
 ```bash
