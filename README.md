@@ -57,11 +57,11 @@ npm run dev
 # Analysis Engine Logic
 The platform utilizes a rule-based analysis algorithm that parses the code string to identify:
 
-* Complexity: Detects excessively long functions or deeply nested loops.
+* **Complexity**: Detects excessively long functions or deeply nested loops.
 
-* Documentation: Checks for the presence of comments and documentation strings.
+* **Documentation**: Checks for the presence of comments and documentation strings.
 
-* Naming Conventions: Evaluates variable and function naming patterns for readability.
+* **Naming Conventions**: Evaluates variable and function naming patterns for readability.
 
 
 # Contribution
